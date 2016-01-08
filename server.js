@@ -8,9 +8,9 @@ var _ = require('underscore');
 ///////////////
 // config
 ///////////////
-var user = 'd25@ms.com';
-var pass = 'xxxxxx';
-var stationID = 217;
+var user = 'alvaradonmauricio';
+var pass = 'ccaammnn';
+var stationID = 62;
 var refreshTimer = 5000;
 
 var userpass64 = "";
